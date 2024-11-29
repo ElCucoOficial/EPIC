@@ -609,3 +609,130 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [06:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo has made the advancement [Constipated]
 [07:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Set own game mode to Spectator Mode]
 [07:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Set own game mode to Creative Mode]
+[07:03:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Messi_chiquito11: Set the time to 1000]
+[07:03:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Changing to clear weather]
+[07:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 10 second at the coordinates:  x=351 y=73 z=-154
+[07:05:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Messi_chiquito11 has made the advancement [Stone Age]
+[07:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 20 second at the coordinates:  x=351 y=73 z=-154
+[07:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 10 second at the coordinates:  x=351 y=73 z=-154
+[07:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 1000 second at the coordinates:  x=351 y=73 z=-154
+[07:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 10 second at the coordinates:  x=351 y=73 z=-154
+[07:08:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo moved too quickly! -9.218343655907859,-3.9387245965748434,1.3411144792145535
+[07:08:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Messi_chiquito11 moved too quickly! 9.722373474860262,-0.15000000596046448,-3.810406327617187
+[07:08:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3489ms behind, skipping 69 tick(s)
+[07:08:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@403dda6b)
+[07:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Messi_chiquito11 moved too quickly! -9.316342244772045,-2.994426627447183,3.521845753829922
+[07:08:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[07:08:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Messi_chiquito11 moved too quickly! -0.7312261388632919,0.0,10.626825285336537
+[07:09:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at it.jdijack.jjmeteor.items.ItemTelescope.func_77659_a(ItemTelescope.java:80) ~[ItemTelescope.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:217) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:358) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:765) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[07:09:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at it.jdijack.jjmeteor.items.ItemTelescope.func_77659_a(ItemTelescope.java:80) ~[ItemTelescope.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:217) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:358) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:765) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[07:09:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at it.jdijack.jjmeteor.items.ItemTelescope.func_77659_a(ItemTelescope.java:80) ~[ItemTelescope.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:217) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:358) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:765) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[07:09:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at it.jdijack.jjmeteor.items.ItemTelescope.func_77659_a(ItemTelescope.java:80) ~[ItemTelescope.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:217) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:358) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:765) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[07:09:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException
+	at it.jdijack.jjmeteor.items.ItemTelescope.func_77659_a(ItemTelescope.java:80) ~[ItemTelescope.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:217) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:358) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:765) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[07:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 10 second at the coordinates:  x=8 y=77 z=-150
+[07:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 10 second at the coordinates:  x=296 y=77 z=-150
