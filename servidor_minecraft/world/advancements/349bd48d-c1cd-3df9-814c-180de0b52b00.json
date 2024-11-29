@@ -74,9 +74,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-29 06:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 06:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-29 06:40:49 +0000"
     },
     "done": true
   },
@@ -188,6 +200,18 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2024-11-29 06:41:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2024-11-29 06:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-29 06:22:18 +0000"
@@ -230,6 +254,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2024-11-29 06:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 06:27:09 +0000"
@@ -239,6 +269,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-11-29 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2024-11-29 06:33:38 +0000"
     },
     "done": true
   },
@@ -281,6 +317,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-29 06:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-11-29 06:33:38 +0000"
     },
     "done": true
   },
