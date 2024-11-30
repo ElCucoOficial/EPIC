@@ -1,156 +1,156 @@
-[06:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:51:36] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[06:51:36] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[06:51:36] [main/INFO] [FML]: Searching /workspaces/EPIC/servidor_minecraft/./mods for mods
-[06:51:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.11.jar
-[06:51:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:51:36] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:51:36] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[06:51:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.87_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:51:36] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[06:51:36] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
-[06:51:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from modularwarfare-2.4.2f.jar
-[06:51:36] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[06:51:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[06:51:36] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[06:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[06:51:36] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/EPIC/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar Service=LaunchWrapper Env=SERVER
-[06:51:36] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[06:51:36] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[06:51:36] [main/WARN] [FML]: The coremod modularwarfare (com.modularwarfare.mixin.MixinCore) is not signed!
-[06:51:36] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[06:51:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:51:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:38] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[06:51:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:38] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[06:51:38] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4463d9d3
-[06:51:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:51:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:51:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:51:39] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:51:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:51:39] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:51:39] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
-[06:51:39] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
-[06:51:39] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
-[06:51:39] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
-[06:51:39] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
-[06:51:40] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
-[06:51:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[06:51:40] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.math.AxisAlignedBB ...
-[06:51:42] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
-[06:51:42] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
-[06:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[06:51:44] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[06:51:44] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[06:51:44] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[06:51:44] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[06:51:44] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraftforge.common.ForgeHooks ...
-[06:51:44] [Server thread/INFO] [FML]: Searching /workspaces/EPIC/servidor_minecraft/./mods for mods
-[06:51:45] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.11
-[06:51:45] [Server thread/WARN] [FML]: Mod blocklings is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0
-[06:51:45] [Server thread/INFO] [FML]: Disabling mod mcgltf it is client side only.
-[06:51:45] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
-[06:51:46] [Server thread/WARN] [FML]: Mod trapcraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.5
-[06:51:46] [Server thread/INFO] [FML]: Forge Mod Loader has identified 30 mods to load
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for modularwarfare: assets/modularwarfare/lang/en_us.lang
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for sanplayermodel: assets/sanplayermodel/lang/en_us.lang
-[06:51:46] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
-[06:51:46] [Server thread/INFO] [FML]: FML has found a non-mod file MCglTF-1.12.2-Forge-2.0.3.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[06:51:46] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[06:51:46] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, techguns_core, securitycraft, blocklings, claysoldiers, extendedrenderer, coroutil, configmod, creativecore, props, flansmod, cfm, cgm, jei, jjmeteor, littletiles, modularwarfare, sanlib, sanplayermodel, techguns, trapcraft, weather2, worldedit, betteranimalsplus] at CLIENT
-[06:51:46] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, techguns_core, securitycraft, blocklings, claysoldiers, extendedrenderer, coroutil, configmod, creativecore, props, flansmod, cfm, cgm, jei, jjmeteor, littletiles, modularwarfare, sanlib, sanplayermodel, techguns, trapcraft, weather2, worldedit, betteranimalsplus] at SERVER
-[06:51:46] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.PacketBuffer ...
-[06:51:47] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
-[06:51:47] [Server thread/INFO] [STDOUT]: [com.modularwarfare.ModConfig:<init>:105]: Comparing version 2.4.2f to 2.4.2f
-[06:51:48] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[06:51:48] [Server thread/INFO] [FML]: Found 1256 ObjectHolder annotations
-[06:51:48] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[06:51:48] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[06:51:48] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[06:51:48] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[06:51:48] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Starting version check at https://raw.githubusercontent.com/JdiJack/JJ-Meteor/master/update.json
-[06:51:48] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Found status: UP_TO_DATE Target: null
-[06:51:48] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[06:51:48] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[06:51:48] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[06:51:49] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[06:51:49] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Starting version check at https://raw.githubusercontent.com/ProPercivalalb/Trapcraft/1.12.x/version.json
-[06:51:49] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Found status: UP_TO_DATE Target: null
-[06:51:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[06:51:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[06:51:49] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en, switching to Locale.US
-[06:51:49] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
-[06:51:49] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded part.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded bullet.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded attachment.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded grenade.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded gun.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded aa.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded vehicle.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded plane.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded mechaItem.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded mecha.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded tool.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded armour.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded armourBox.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded box.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded playerClass.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded team.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded itemHolder.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded rewardBox.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded loadout.
-[06:51:57] [Server thread/INFO] [flansmod]: Loaded glove.
-[06:51:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[06:51:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[06:51:58] [Server thread/INFO] [STDOUT]: [com.modularwarfare.ModConfig:<init>:105]: Comparing version 2.4.2f to 2.4.2f
-[06:51:58] [Server thread/INFO] [modularwarfare]: Loaded content pack list server side.
-[06:52:02] [Server thread/INFO] [modularwarfare]: Registered content pack
-[06:52:02] [Server thread/INFO] [modularwarfare]: Registered content pack
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren_manual`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wind_vane`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_forecast`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_machine`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_deflector`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `anemometer`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:03] [Server thread/INFO] [flansmod]: Registering Blocks
-[06:52:03] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:03] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:03] [Server thread/INFO] [flansmod]: Registering Items
-[06:52:03] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:03] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:03] [Server thread/INFO] [flansmod]: Registering Entities
-[06:52:03] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:03] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:03] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:03] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:03] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:52:03] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[06:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[06:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[06:52:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[06:52:03] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[06:52:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:52:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[06:52:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:52:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:52:03] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[07:10:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:10:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[07:10:38] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[07:10:38] [main/INFO] [FML]: Searching /workspaces/EPIC/servidor_minecraft/./mods for mods
+[07:10:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.11.jar
+[07:10:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[07:10:38] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[07:10:38] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[07:10:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.62_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[07:10:38] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[07:10:38] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[07:10:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from modularwarfare-2.4.2f.jar
+[07:10:38] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[07:10:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[07:10:38] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[07:10:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[07:10:38] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/EPIC/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.11.jar Service=LaunchWrapper Env=SERVER
+[07:10:38] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[07:10:38] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[07:10:38] [main/WARN] [FML]: The coremod modularwarfare (com.modularwarfare.mixin.MixinCore) is not signed!
+[07:10:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[07:10:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:10:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:10:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[07:10:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4463d9d3
+[07:10:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:10:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:10:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:10:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[07:10:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:10:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[07:10:41] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
+[07:10:41] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
+[07:10:41] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[07:10:41] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[07:10:41] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[07:10:42] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[07:10:42] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[07:10:42] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.math.AxisAlignedBB ...
+[07:10:44] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
+[07:10:44] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[07:10:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[07:10:46] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[07:10:46] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[07:10:46] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[07:10:46] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[07:10:46] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraftforge.common.ForgeHooks ...
+[07:10:46] [Server thread/INFO] [FML]: Searching /workspaces/EPIC/servidor_minecraft/./mods for mods
+[07:10:47] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.11
+[07:10:47] [Server thread/WARN] [FML]: Mod blocklings is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0
+[07:10:48] [Server thread/INFO] [FML]: Disabling mod mcgltf it is client side only.
+[07:10:48] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[07:10:48] [Server thread/WARN] [FML]: Mod trapcraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.5
+[07:10:48] [Server thread/INFO] [FML]: Forge Mod Loader has identified 30 mods to load
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for modularwarfare: assets/modularwarfare/lang/en_us.lang
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for sanplayermodel: assets/sanplayermodel/lang/en_us.lang
+[07:10:48] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[07:10:48] [Server thread/INFO] [FML]: FML has found a non-mod file MCglTF-1.12.2-Forge-2.0.3.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[07:10:48] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[07:10:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, techguns_core, securitycraft, blocklings, claysoldiers, extendedrenderer, coroutil, configmod, creativecore, props, flansmod, cfm, cgm, jei, jjmeteor, littletiles, modularwarfare, sanlib, sanplayermodel, techguns, trapcraft, weather2, worldedit, betteranimalsplus] at CLIENT
+[07:10:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, techguns_core, securitycraft, blocklings, claysoldiers, extendedrenderer, coroutil, configmod, creativecore, props, flansmod, cfm, cgm, jei, jjmeteor, littletiles, modularwarfare, sanlib, sanplayermodel, techguns, trapcraft, weather2, worldedit, betteranimalsplus] at SERVER
+[07:10:49] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.PacketBuffer ...
+[07:10:49] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[07:10:50] [Server thread/INFO] [STDOUT]: [com.modularwarfare.ModConfig:<init>:105]: Comparing version 2.4.2f to 2.4.2f
+[07:10:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[07:10:50] [Server thread/INFO] [FML]: Found 1256 ObjectHolder annotations
+[07:10:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[07:10:50] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[07:10:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[07:10:50] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[07:10:50] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[07:10:51] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[07:10:51] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Starting version check at https://raw.githubusercontent.com/JdiJack/JJ-Meteor/master/update.json
+[07:10:51] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Found status: UP_TO_DATE Target: null
+[07:10:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[07:10:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[07:10:52] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[07:10:52] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[07:10:52] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Starting version check at https://raw.githubusercontent.com/ProPercivalalb/Trapcraft/1.12.x/version.json
+[07:10:52] [Forge Version Check/INFO] [forge.VersionCheck]: [trapcraft] Found status: UP_TO_DATE Target: null
+[07:10:52] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en, switching to Locale.US
+[07:10:52] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[07:10:52] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded part.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded bullet.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded attachment.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded grenade.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded gun.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded aa.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded vehicle.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded plane.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded mechaItem.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded mecha.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded tool.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded armour.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded armourBox.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded box.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded playerClass.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded team.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded itemHolder.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded rewardBox.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded loadout.
+[07:11:00] [Server thread/INFO] [flansmod]: Loaded glove.
+[07:11:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[07:11:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[07:11:01] [Server thread/INFO] [STDOUT]: [com.modularwarfare.ModConfig:<init>:105]: Comparing version 2.4.2f to 2.4.2f
+[07:11:01] [Server thread/INFO] [modularwarfare]: Loaded content pack list server side.
+[07:11:05] [Server thread/INFO] [modularwarfare]: Registered content pack
+[07:11:05] [Server thread/INFO] [modularwarfare]: Registered content pack
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren_manual`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wind_vane`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_forecast`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_machine`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_deflector`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `anemometer`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:06] [Server thread/INFO] [flansmod]: Registering Blocks
+[07:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:06] [Server thread/INFO] [flansmod]: Registering Items
+[07:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:06] [Server thread/INFO] [flansmod]: Registering Entities
+[07:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[07:11:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[07:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[07:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[07:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[07:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[07:11:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[07:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[07:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:11:07] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -166,7 +166,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[06:52:03] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[07:11:07] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -182,7 +182,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[06:52:03] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[07:11:07] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -198,7 +198,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[06:52:03] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[07:11:07] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -214,120 +214,180 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[06:52:04] [Server thread/INFO] [flansmod]: Registering Recipes.
-[06:52:04] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:04] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:04] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
-[06:52:04] [Server thread/INFO] [flansmod]: Loading complete.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentity`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityticking`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentitytickingrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
-[06:52:04] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[06:52:04] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:52:04] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:52:05] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10) is loaded
-[06:52:05] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[06:52:05] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 30 mods
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded workbench model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded importer model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded exporter model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded particle_emitter model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded blankomatic model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable1 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable4 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable16 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output1 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output4 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output16 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input1 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input4 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input16 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded signal_display_16 model
-[06:52:05] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded structure_builder model
-[06:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[06:52:05] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fuelium
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:jack_head
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:workstation
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:steep_boost_ramp
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:boost_ramp
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:traffic_cone
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_pipe
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:vehicle_crate
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_pump
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_mixer
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_extractor
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:jack
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:ender_sap
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:gas_pump
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:blaze_juice
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fuel_drum
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:boost_pad
-[06:52:06] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:industrial_fuel_drum
-[06:52:06] [Server thread/INFO] [FML]: Applying holder lookups
-[06:52:06] [Server thread/INFO] [FML]: Holder lookups applied
-[06:52:06] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7d90d4ad)
-[06:52:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 542 advancements
-[06:52:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d90d4ad)
-[06:52:07] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d90d4ad)
-[06:52:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[06:52:07] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
-[06:52:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
-[06:52:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.779s)! For help, type "help" or "?"
-[06:52:09] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[06:52:09] [Server thread/INFO] [FML]: Unloading dimension -1
-[06:52:09] [Server thread/INFO] [FML]: Unloading dimension 1
-[06:53:34] [Netty Epoll Server IO #3/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NettyCompressionDecoder ...
-[06:53:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[06:53:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[06:53:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[06:53:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[06:53:34] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[06:53:34] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
-[06:53:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:53:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:50469] logged in with entity id 256 at (348.4690713633265, 65.0, -154.22754001954064)
-[06:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
-[06:53:40] [Server thread/INFO] [coroutil]: CoroUtil detected Tough As Nails Seasons Not Installed for use
-[06:53:40] [Server thread/INFO] [coroutil]: CoroUtil detected Serene Seasons Not Installed for use
-[06:53:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[06:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
+[07:11:07] [Server thread/INFO] [flansmod]: Registering Recipes.
+[07:11:07] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:07] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:07] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
+[07:11:07] [Server thread/INFO] [flansmod]: Loading complete.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentity`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityticking`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentitytickingrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[07:11:08] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:11:08] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[07:11:08] [Server thread/INFO] [FML]: Injecting itemstacks
+[07:11:08] [Server thread/INFO] [FML]: Itemstack injection complete
+[07:11:08] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10) is loaded
+[07:11:08] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[07:11:08] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 30 mods
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded workbench model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded importer model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded exporter model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded particle_emitter model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded blankomatic model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable1 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable4 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable16 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output1 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output4 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output16 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input1 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input4 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input16 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded signal_display_16 model
+[07:11:09] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded structure_builder model
+[07:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[07:11:09] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fuelium
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:jack_head
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:workstation
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:steep_boost_ramp
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:boost_ramp
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:traffic_cone
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_pipe
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:vehicle_crate
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_pump
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_mixer
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fluid_extractor
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:jack
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:ender_sap
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:gas_pump
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:blaze_juice
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:fuel_drum
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:boost_pad
+[07:11:09] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world vehicle:industrial_fuel_drum
+[07:11:10] [Server thread/INFO] [FML]: Applying holder lookups
+[07:11:10] [Server thread/INFO] [FML]: Holder lookups applied
+[07:11:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3fb77fc)
+[07:11:10] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:11:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 542 advancements
+[07:11:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3fb77fc)
+[07:11:10] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3fb77fc)
+[07:11:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[07:11:11] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[07:11:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[07:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.512s)! For help, type "help" or "?"
+[07:11:12] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[07:11:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[07:11:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[07:12:23] [Netty Epoll Server IO #0/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NettyCompressionDecoder ...
+[07:12:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[07:12:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[07:12:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[07:12:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[07:12:23] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:12:23] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
+[07:12:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:12:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:64910] logged in with entity id 230 at (348.7222381269398, 65.0, -153.30000001192093)
+[07:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
+[07:12:26] [Server thread/INFO] [coroutil]: CoroUtil detected Tough As Nails Seasons Not Installed for use
+[07:12:26] [Server thread/INFO] [coroutil]: CoroUtil detected Serene Seasons Not Installed for use
+[07:13:01] [Server thread/WARN] [net.minecraft.stats.StatisticsManagerServer]: Invalid statistic in ./world/stats/349bd48d-c1cd-3df9-814c-180de0b52b00.json: Don't know what stat.drop.vehicle.vehicle_crate is
+[07:13:01] [Server thread/WARN] [net.minecraft.stats.StatisticsManagerServer]: Invalid statistic in ./world/stats/349bd48d-c1cd-3df9-814c-180de0b52b00.json: Don't know what stat.pickup.vehicle.vehicle_crate is
+[07:13:02] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[07:13:02] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,supertnt@1.0.1,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,tlauncher_custom_cape_skin@1.4,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0
+[07:13:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:13:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Messi_chiquito11[/100.76.224.117:64028] logged in with entity id 669 at (286.46978481773726, 71.0, -125.71587662968543)
+[07:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Messi_chiquito11 joined the game
+[07:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Set the time to 1000]
+[07:15:05] [Server thread/WARN] [FML]: Techguns loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [0, 0], causing cascading worldgen lag.
+[07:15:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:15:05] [Server thread/WARN] [FML]: Techguns loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [0, 0], causing cascading worldgen lag.
+[07:15:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Messi_chiquito11: Teleported Messi_chiquito11 to 24000.5, 80.0, 20000.5]
+[07:15:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[07:15:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Changing to clear weather]
+[07:16:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Teleported EthanRomeroo to Messi_chiquito11]
+[07:17:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[07:17:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[07:19:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[07:19:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[07:19:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.sanandrew.mods.claysoldiers.entity.soldier.EntityClaySoldier from class de.sanandrew.mods.claysoldiers.network.datasync.DataWatcherBooleans
+[07:19:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Disconnected
+[07:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
+[07:19:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Messi_chiquito11 lost connection: Disconnected
+[07:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Messi_chiquito11 left the game
+[07:19:47] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:19:47] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,supertnt@1.0.1,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,tlauncher_custom_cape_skin@1.4,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0
+[07:19:48] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:19:48] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
+[07:19:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:19:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Messi_chiquito11[/100.76.224.117:64068] logged in with entity id 18799 at (23627.622470108145, 74.0, 20222.133806235317)
+[07:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Messi_chiquito11 joined the game
+[07:19:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:19:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:65000] logged in with entity id 18800 at (23626.64426633403, 74.0, 20229.813437332865)
+[07:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
+[07:19:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Messi_chiquito11 lost connection: Disconnected
+[07:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Messi_chiquito11 left the game
+[07:19:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Disconnected
+[07:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
+[07:20:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[07:20:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
+[07:20:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:20:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:65010] logged in with entity id 19003 at (23626.64426633403, 74.0, 20229.813437332865)
+[07:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
+[07:20:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Disconnected
+[07:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
+[07:20:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[07:20:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
+[07:20:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:20:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:65013] logged in with entity id 19215 at (23626.64426633403, 74.0, 20229.813437332865)
+[07:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
+[07:20:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Disconnected
+[07:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
+[07:20:29] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[07:20:29] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,flansmod@5.10.0,claysoldiers@3.0.0-beta.2,ptrmodellib@1.0.5,extendedrenderer@v1.0,cgm@0.15.3,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.1012,vehicle@0.44.1,modularwarfare@2.4.2f,techguns_core@1.12.2-1.0,littletilescore@1.0.0,trapcraft@2.4.5,mcp@9.42,sanplayermodel@1.2.2,securitycraft@v1.9.11,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,weather2@1.12.1-2.6.12,betteranimalsplus@9.0.1,coroutil@1.12.1-1.2.37,worldedit@6.1.10,cfm@6.3.0,props@2.6.3.7,blocklings@1.0,forge@14.23.5.2860,jjmeteor@1.0.10,littletiles@1.5.0,techguns@2.0.2.0,essential@1.0.0
+[07:20:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:20:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: EthanRomeroo[/100.68.240.24:65017] logged in with entity id 19618 at (23626.64426633403, 74.0, 20229.813437332865)
+[07:20:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo joined the game
+[07:20:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: EthanRomeroo lost connection: Disconnected
+[07:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: EthanRomeroo left the game
