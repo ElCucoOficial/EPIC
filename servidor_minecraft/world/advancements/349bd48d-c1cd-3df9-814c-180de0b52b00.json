@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-29 07:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-29 07:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "skeleton": "2024-11-29 07:15:28 +0000"
     },
     "done": true
   },
@@ -265,6 +277,13 @@
       "get_chair_or_table": "2024-11-29 06:41:23 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2024-11-29 07:15:28 +0000",
+      "zombie": "2024-11-29 07:16:20 +0000"
+    },
+    "done": false
   },
   "cfm:appliance_city": {
     "criteria": {
