@@ -452,3 +452,5 @@ Alternatively start the server with -Dfml.queryResult=confirm or -Dfml.queryResu
 [07:27:47] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id claysoldiers:claysoldier
 [07:27:47] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id claysoldiers:claysoldier
 [07:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 360 second at the coordinates:  x=24082 y=68 z=20698
+[07:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Set own game mode to Survival Mode]
+[07:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [EthanRomeroo: Set own game mode to Creative Mode]
