@@ -11,6 +11,7 @@
       "minecraft:flower_forest": "2024-12-10 17:45:23 +0000",
       "minecraft:snowy_slopes": "2024-12-10 17:46:26 +0000",
       "minecraft:beach": "2024-12-10 15:51:49 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-10 18:10:15 +0000",
       "minecraft:dark_forest": "2024-12-10 17:31:01 +0000",
       "minecraft:forest": "2024-12-10 15:52:52 +0000",
       "minecraft:taiga": "2024-12-10 15:52:07 +0000",
@@ -19,6 +20,7 @@
       "minecraft:lush_caves": "2024-12-10 17:02:52 +0000",
       "minecraft:dripstone_caves": "2024-12-10 17:03:14 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 16:57:42 +0000",
+      "minecraft:frozen_ocean": "2024-12-10 18:10:21 +0000",
       "minecraft:ocean": "2024-12-10 16:50:56 +0000",
       "minecraft:sunflower_plains": "2024-12-10 16:50:24 +0000",
       "minecraft:birch_forest": "2024-12-10 17:33:44 +0000",
@@ -1880,9 +1882,39 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2024-12-10 18:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-10 18:15:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-10 18:14:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2024-12-10 17:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-10 18:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-10 18:07:08 +0000"
     },
     "done": true
   },
