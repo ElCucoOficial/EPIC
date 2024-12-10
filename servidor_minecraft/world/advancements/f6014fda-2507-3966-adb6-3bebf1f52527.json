@@ -421,7 +421,8 @@
     "criteria": {
       "mutton": "2024-12-10 15:59:14 +0000",
       "rotten_flesh": "2024-12-10 16:01:52 +0000",
-      "sweet_berries": "2024-12-10 15:53:46 +0000"
+      "sweet_berries": "2024-12-10 15:53:46 +0000",
+      "porkchop": "2024-12-10 16:34:12 +0000"
     },
     "done": false
   },
@@ -1256,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 16:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-10 16:23:29 +0000"
@@ -1304,9 +1311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 16:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-10 16:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-10 16:34:05 +0000"
     },
     "done": true
   },
